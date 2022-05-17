@@ -62,3 +62,4 @@ while time.time() < game_time_start + game_duration:
 driver.quit()
 
 #TODO: Handle `StaleElementReferenceException`
+#
